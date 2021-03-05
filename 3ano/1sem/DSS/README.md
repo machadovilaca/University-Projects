@@ -8,4 +8,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/Car-Configurator-Hub
+https://gitlab.com/machadovilaca-uminho/3rd-year/Car-Configurator-Hub

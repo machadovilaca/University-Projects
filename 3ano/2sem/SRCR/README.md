@@ -10,4 +10,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/SRCR
+https://gitlab.com/machadovilaca-uminho/3rd-year/SRCR

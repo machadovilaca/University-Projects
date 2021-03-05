@@ -8,4 +8,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/Roguelike
+https://gitlab.com/machadovilaca-uminho/1st-year/Roguelike

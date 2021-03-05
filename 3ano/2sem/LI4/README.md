@@ -8,4 +8,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/ACE-it---Cooking-assistant
+https://gitlab.com/machadovilaca-uminho/3rd-year/ACE-it---Cooking-assistant

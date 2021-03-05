@@ -8,4 +8,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/CG-PROJETO
+https://gitlab.com/machadovilaca-uminho/3rd-year/CG-PROJETO

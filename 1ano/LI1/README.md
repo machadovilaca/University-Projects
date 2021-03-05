@@ -9,4 +9,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/Bomberman
+https://gitlab.com/machadovilaca-uminho/1st-year/Bomberman

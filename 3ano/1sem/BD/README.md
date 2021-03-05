@@ -4,4 +4,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/BD-EventsWorkbench
+https://gitlab.com/machadovilaca-uminho/3rd-year/BD-EventsWorkbench

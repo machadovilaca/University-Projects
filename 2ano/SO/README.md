@@ -8,4 +8,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/NPS
+https://gitlab.com/machadovilaca-uminho/2nd-year/NPS

@@ -8,4 +8,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/li3
+https://gitlab.com/machadovilaca-uminho/2nd-year/JavaFactura

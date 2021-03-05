@@ -6,4 +6,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/CP
+https://gitlab.com/machadovilaca-uminho/2nd-year/CP

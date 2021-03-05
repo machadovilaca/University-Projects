@@ -8,4 +8,4 @@
 
 ### Repository:
 
-https://gitlab.com/machadovilaca/Cloud-Management-Services
+https://gitlab.com/machadovilaca-uminho/3rd-year/GCVFTP
